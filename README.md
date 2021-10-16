@@ -1,1 +1,1 @@
-# SpringBootFirst
+# School management
